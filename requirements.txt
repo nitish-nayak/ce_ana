@@ -1,0 +1,5 @@
+colorama
+ipython
+matplotlib
+numpy
+statsmodels
